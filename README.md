@@ -15,7 +15,8 @@ This is a fullstack user management application built with **React**, **Redux**,
 - [Validation](#validation)  
 - [Error Handling](#error-handling)  
 - [Advanced UI Features](#advanced-ui-features)
-- [Notes](#notes)  
+- [Notes](#notes)
+- [Screenshots](#screenshots)  
 
 ---
 
@@ -177,4 +178,20 @@ Pagination
 
 Filtering/search by name or email
 
-User authentication & roles
+
+
+
+## Screenshots
+
+
+### Screenshot of Main Table
+<img width="960" alt="Main Table" src="https://github.com/user-attachments/assets/b06003d1-b9e2-4c65-adca-2aa9af397880" />
+
+### Screenshot of Insert Modal
+<img width="960" alt="Insert Modal" src="https://github.com/user-attachments/assets/a0b559aa-7371-462a-84a8-c3c641cdcde8" />
+
+### Screenshot of update Modal
+<img width="960" alt="Update Modal" src="https://github.com/user-attachments/assets/51d827a6-de75-4508-8545-a4695d205562" />
+
+### Screenshot of Delete Modal
+<img width="958" alt="Delete Modal" src="https://github.com/user-attachments/assets/7f8ee29f-5d6d-4786-8d63-c44f070ddd9c" />
